@@ -5,6 +5,9 @@
 - 👯 I’m looking to collaborate on making a cumulative list of algorithm-based beginner friendly projects in C++, Python and Java.
 - 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white) ![Instagram](https://img.shields.io/badge/rakshaa_viswanathan%20-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white)
 - 😄 Pronouns: She/Her
+- 💬 Ask me anything
+- 🌱 I’m currently learning IoT
+- 📝[Resume](https://drive.google.com/file/d/1cic8e6wvwAAHHhIXNlh05ZCsYkpmejzL/view?usp=sharing)
 
 
 [![Rakshaa's github stats](https://github-readme-stats.vercel.app/api?username=rakshaa2000&hide=stars&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
