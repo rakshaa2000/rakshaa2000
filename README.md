@@ -9,8 +9,6 @@
 
 [![Rakshaa's github stats](https://github-readme-stats.vercel.app/api?username=rakshaa2000&hide=stars&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshaa2000&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -42,3 +40,5 @@
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat-square&logo=pandas)
 ![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat-square&logo=numpy)
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshaa2000&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
