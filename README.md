@@ -47,20 +47,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshaa2000&langs_count=10&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<a href="https://twitter.com/RakshaaViswana1">
-  <img align="center" alt="Rakshaa Viswanathan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rakshaa-viswanathan-0aa891199/">
-  <img align="center" alt="Rakshaa Viswanathan's LinkdenIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/rakshaa_viswanathan/">
-  <img align="center" alt="Rakshaa Viswanathan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user/rakshaa2000/">
-  <img align="center" alt="Rakshaa Viswanathan's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://leetcode.com/rakshaa2000/">
-  <img align="center" alt="Rakshaa Viswanathan's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
