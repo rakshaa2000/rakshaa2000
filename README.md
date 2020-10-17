@@ -2,7 +2,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 - 🔭 I’m currently working on Web development with MEAN and MERN stacks, Machine Learning and Deep Learning Algorithms.
-- 👯 I’m looking to collaborate on making a cumulative list of algorithm-based beginner friendly projects in C++, Python and Java.
+- 👯 I’m looking to collaborate in making a cumulative list of algorithm-based beginner friendly projects in C++, Python and Java.
 - 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white) ![Instagram](https://img.shields.io/badge/rakshaa_viswanathan%20-%23E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white)
 - 😄 Pronouns: She/Her
 - 💬 Ask me anything
