@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning IoT
 - 📝[Resume](https://drive.google.com/file/d/1cic8e6wvwAAHHhIXNlh05ZCsYkpmejzL/view?usp=sharing)
 
-## 📝 My GitHub Stats
+## :pushpin: My GitHub Stats
 [![Rakshaa's github stats](https://github-readme-stats.vercel.app/api?username=rakshaa2000&hide=stars&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -46,10 +46,10 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=flat-square&logo=Jupyter&logoColor=white)
 
 
-## My Top Languages:
+## :desktop_computer: My Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshaa2000&langs_count=10&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-### 😜Here's a Joke for you:
+## :nerd_face: A geek joke for you: 
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
