@@ -13,6 +13,79 @@
 [![Rakshaa's github stats](https://github-readme-stats.vercel.app/api?username=rakshaa2000&hide=stars&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 416 Contributions in the Year 2020
+ > 
+> 📦 7.9 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 74 Public Repositories
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    21 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.54% 
+🌆 Daytime    37 commits     ███████░░░░░░░░░░░░░░░░░░   29.13% 
+🌃 Evening    67 commits     █████████████░░░░░░░░░░░░   52.76% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.6% 
+Tuesday      6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.72% 
+Wednesday    51 commits     ██████████░░░░░░░░░░░░░░░   40.16% 
+Thursday     0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Friday       7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.51% 
+Saturday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.94% 
+Sunday       42 commits     ████████░░░░░░░░░░░░░░░░░   33.07%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+Jupyter Notebook         3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69% 
+Java                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/rakshaa2000/rakshaa2000/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 ## ⚡ Technologies
