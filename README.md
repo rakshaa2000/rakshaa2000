@@ -13,17 +13,17 @@
 [![Rakshaa's github stats](https://github-readme-stats.vercel.app/api?username=rakshaa2000&hide=stars&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 441 Contributions in the Year 2020
+> 🏆 452 Contributions in the Year 2020
  > 
 > 📦 8.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 79 Public Repositories
+> 📜 81 Public Repositories
  > 
 > 🔑 1 Private Repository 
  > 
@@ -72,11 +72,11 @@ No Activity Tracked This Week
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78% 
-Jupyter Notebook         3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+HTML                     5 repos             ██████░░░░░░░░░░░░░░░░░░░   26.32% 
+JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+Jupyter Notebook         3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53% 
+C++                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.53%
 
 ```
 
