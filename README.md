@@ -13,13 +13,13 @@
 [![Rakshaa's github stats](https://github-readme-stats.vercel.app/api?username=rakshaa2000&hide=stars&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-89-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 487 Contributions in the Year 2020
+> 🏆 496 Contributions in the Year 2020
  > 
 > 📦 49.5 kB Used in Github's Storage 
  > 
@@ -58,16 +58,24 @@ Sunday       42 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     42 mins             ████████░░░░░░░░░░░░░░░░░   32.54% 
+JavaScript               28 mins             █████░░░░░░░░░░░░░░░░░░░░   22.07% 
+Markdown                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31% 
+Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.95% 
+Python                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.28%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 9 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+rakshaa2000.github.io    41 mins             ████████░░░░░░░░░░░░░░░░░   32.16% 
+LeetCode                 20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   15.49% 
+Data-Structures-and-Algor16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
+Paint                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.37% 
+Calendar                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 9 mins        █████████████████████████   100.0%
 
 ```
 
