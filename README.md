@@ -13,7 +13,7 @@
 [![Rakshaa's github stats](https://github-readme-stats.vercel.app/api?username=rakshaa2000&hide=stars&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
@@ -25,9 +25,9 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 86 Public Repositories
+> 📜 86 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+86 Private Repository 
  > 
 **I'm a Night 🦉** 
 
