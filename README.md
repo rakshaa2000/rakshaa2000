@@ -27,7 +27,7 @@
  > 
 > 📜 88 Public Repositories 
  > 
-88 Private Repository 
+> 🔑 1 Private Repository 
  > 
 **I'm a Night 🦉** 
 
