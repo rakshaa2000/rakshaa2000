@@ -13,41 +13,41 @@
 [![Rakshaa's github stats](https://github-readme-stats.vercel.app/api?username=rakshaa2000&hide=stars&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-150789%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-179636%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 1 Contributions in the Year 2021
+> 🏆 18 Contributions in the Year 2021
  > 
-> 📦 51.3 kB Used in Github's Storage 
+> 📦 51.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 90 Public Repositories 
+> 📜 91 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    22 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
-🌆 Daytime    54 commits     █████████░░░░░░░░░░░░░░░░   35.76% 
-🌃 Evening    75 commits     ████████████░░░░░░░░░░░░░   49.67% 
+🌞 Morning    21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
+🌆 Daytime    56 commits     █████████░░░░░░░░░░░░░░░░   36.84% 
+🌃 Evening    75 commits     ████████████░░░░░░░░░░░░░   49.34% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Wednesday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.62% 
-Tuesday      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.65% 
-Wednesday    49 commits     ████████░░░░░░░░░░░░░░░░░   32.45% 
-Thursday     27 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.88% 
-Friday       7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.64% 
-Saturday     6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.97% 
-Sunday       48 commits     ████████░░░░░░░░░░░░░░░░░   31.79%
+Monday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.58% 
+Tuesday      4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.63% 
+Wednesday    48 commits     ████████░░░░░░░░░░░░░░░░░   31.58% 
+Thursday     28 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.42% 
+Friday       7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.61% 
+Saturday     5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.29% 
+Sunday       50 commits     ████████░░░░░░░░░░░░░░░░░   32.89%
 
 ```
 
