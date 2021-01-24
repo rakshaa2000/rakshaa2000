@@ -13,21 +13,21 @@
 [![Rakshaa's github stats](https://github-readme-stats.vercel.app/api?username=rakshaa2000&hide=stars&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-181652%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-183712%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 79 Contributions in the Year 2021
+> 🏆 94 Contributions in the Year 2021
  > 
-> 📦 53.3 kB Used in Github's Storage 
+> 📦 58.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 100 Public Repositories 
+> 📜 102 Public Repositories 
  > 
-> 🔑 1 Private Repository 
+> 🔑 3 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -82,11 +82,11 @@ Windows                  2 hrs 9 mins        ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   30.3% 
-HTML                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.21% 
-Jupyter Notebook         4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+JavaScript               12 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
+HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Jupyter Notebook         5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
 
