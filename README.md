@@ -13,7 +13,7 @@
 [![Rakshaa's github stats](https://github-readme-stats.vercel.app/api?username=rakshaa2000&hide=stars&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-19-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-183712%20lines%20of%20code-blue)
 
@@ -82,11 +82,11 @@ Windows                  2 hrs 9 mins        ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               12 repos            ████████░░░░░░░░░░░░░░░░░   33.33% 
-HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Jupyter Notebook         5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.89% 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
+JavaScript               12 repos            ████████░░░░░░░░░░░░░░░░░   34.29% 
+HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+Jupyter Notebook         4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.43% 
+C++                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.57%
 
 ```
 
