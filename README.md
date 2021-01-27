@@ -13,28 +13,28 @@
 [![Rakshaa's github stats](https://github-readme-stats.vercel.app/api?username=rakshaa2000&hide=stars&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-60-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-183712%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-183188%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 94 Contributions in the Year 2021
+> 🏆 95 Contributions in the Year 2021
  > 
-> 📦 58.7 kB Used in Github's Storage 
+> 📦 58.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 102 Public Repositories 
+> 📜 103 Public Repositories 
  > 
-> 🔑 3 Private Repositories  
+> 🔑 2 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.62% 
-🌆 Daytime    37 commits     ███████░░░░░░░░░░░░░░░░░░   28.46% 
-🌃 Evening    87 commits     ████████████████░░░░░░░░░   66.92% 
+🌆 Daytime    36 commits     ███████░░░░░░░░░░░░░░░░░░   27.69% 
+🌃 Evening    88 commits     █████████████████░░░░░░░░   67.69% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
@@ -43,9 +43,9 @@
 ```text
 Monday       9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.92% 
 Tuesday      9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.92% 
-Wednesday    43 commits     ████████░░░░░░░░░░░░░░░░░   33.08% 
+Wednesday    44 commits     ████████░░░░░░░░░░░░░░░░░   33.85% 
 Thursday     49 commits     █████████░░░░░░░░░░░░░░░░   37.69% 
-Friday       3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31% 
+Friday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.54% 
 Saturday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31% 
 Sunday       14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.77%
 
