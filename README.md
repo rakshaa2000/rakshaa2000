@@ -13,19 +13,19 @@
 [![Rakshaa's github stats](https://github-readme-stats.vercel.app/api?username=rakshaa2000&hide=stars&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-64-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-183188%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 95 Contributions in the Year 2021
+> 🏆 97 Contributions in the Year 2021
  > 
 > 📦 58.8 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 103 Public Repositories 
+> 📜 104 Public Repositories 
  > 
 > 🔑 2 Private Repositories  
  > 
