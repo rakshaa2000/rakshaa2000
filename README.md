@@ -13,7 +13,7 @@
 [![Rakshaa's github stats](https://github-readme-stats.vercel.app/api?username=rakshaa2000&hide=stars&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-183552%20lines%20of%20code-blue)
 
@@ -21,7 +21,7 @@
 
 > 🏆 120 Contributions in the Year 2021
  > 
-> 📦 60.9 kB Used in Github's Storage 
+> 📦 61.0 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
