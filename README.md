@@ -10,7 +10,7 @@
 - 📝[Resume](https://drive.google.com/file/d/1cic8e6wvwAAHHhIXNlh05ZCsYkpmejzL/view?usp=sharing)
 
 ## :pushpin: My GitHub Stats
-[![Rakshaa's github stats](https://github-readme-stats.vercel.app/api?username=rakshaa2000&hide=stars&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Rakshaa's github stats](https://github-readme-stats.vercel.app/api?username=rakshaa2000&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
