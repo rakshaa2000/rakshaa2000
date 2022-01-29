@@ -12,7 +12,7 @@
 ## :pushpin: My GitHub Stats
 [![Rakshaa's github stats](https://github-readme-stats.vercel.app/api?username=rakshaa2000&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Metrics](/github-metrics.svg)]
+![Metrics](/github-metrics.svg)
 
 ## ⚡ Technologies
 
